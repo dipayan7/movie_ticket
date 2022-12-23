@@ -1,9 +1,8 @@
-# MyShowz-Movie-ticket-booking-website
+# Movie-ticket-booking-website
 It is a movie ticket booking website with front-end only. I designed it as a part of my HCI (human-computer interaction) project.
 It is available in both dark & light mode.
 
-## Demo
-http://myshowz.infinityfreeapp.com/
+
 
 # Glimpse of the Website
 ## Home page in the dark mode
@@ -22,6 +21,9 @@ http://myshowz.infinityfreeapp.com/
 ![SignIn-SignUp page in the dark mode](./screenshots/MyShowz_sign-in_page_dark.PNG)
 
 ## Credits
+Dipayan Dasgupta 
+Purvil Patel 
+Rajdeep Patel
 
 ## Bootstrap Layout 
 https://w3layouts.com/tag/bootstrap-templates/
